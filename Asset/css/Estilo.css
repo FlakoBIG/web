@@ -1,0 +1,175 @@
+
+#Body{
+    background-color: rgb(34, 34, 34);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    margin-top: 2px;
+}
+#Cuadro_de_recorrido{
+    font-size: 90%;
+    color: rgb(209, 209, 209);
+    padding-left: 3px;
+    padding-right: 3px;
+    border-radius: 4px;
+    margin-top: 30px;
+    width: 8%;
+    background-color: rgb(235, 51, 51);
+    height: 350px;
+    position: fixed;
+}
+#Cuadro_de_publicidad{
+    font-size: 90%;
+    padding-left: 3px;
+    padding-right: 3px;
+    border-radius: 4px;
+    margin-top: 30px;
+    width: 8%;
+    border: 3px solid black;
+    height: 350px;
+    margin-left: 90.4%;
+    position: fixed;
+}
+#texto_describcion,#Dequetrata{
+    color:white;
+    margin-left: 10px;
+}
+#Dequetrata{
+    padding: 2px;
+    padding-left: 3px;
+    background-color:rgba(160, 4, 4, 0.493);
+    border-radius: 5px;
+    width: 135px;
+}
+#Encabesado{
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 4px;
+    height: 100px;
+    background-color: rgb(160, 4, 4);
+}
+#Contenedor{
+    padding-left: 13px;
+    padding-right: 13px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    margin-top: 30px;
+    background-color: rgb(62, 62, 62);
+    border-radius: 4px;
+    height: 5180px;
+}
+#barra_separacion{
+    border-radius: 4px;
+    margin-top: 50px;
+    width:100%;
+    background-color:rgb(160, 4, 4);
+    height: 5px;
+}
+#titulo{
+    background-color: rgb(221, 221, 221);
+    color:black;
+    padding-top: 1px;
+    text-align: center;
+    border-radius: 3px;
+}
+#Describcion{
+    font-size: 20px;
+    color:rgb(201, 207, 212);
+    display: inline-block;
+    border: 3px solid black;
+    border-radius: 4px;
+    width: 70%;
+    height: 300px;
+}
+img{
+    margin-right: 30px;
+    border-radius: 4px;
+    float: right;
+    height: 305px;
+    width: 220px;
+}
+#Trailer{
+    border: 3px solid black;
+    border-radius: 4px;
+    margin-top: 30px;
+    height: 515px;
+    
+}
+iframe{
+    height: 100%;
+    width: 100%;
+}
+
+#final{
+    margin-top: 40px;
+    padding-top: 10px;
+    width: 100%;
+    background-color: rgb(71, 71, 71);
+    height: 60px;
+    border-radius: 4px;
+}
+#parrafo_final{
+    margin-left: 10px;
+    color: rgb(235, 235, 235);
+    display: inline-block;
+    
+}
+#capsla{
+    padding-top: 1px;
+    padding-left: 5px;
+    border-radius: 4px;
+    background-color: brown;
+    padding-bottom: 6px;
+    
+}
+#Redes{
+    float: right;
+    width: 50px;
+    height: 50px;
+}
+
+form{
+    color: rgb(201, 207, 212);
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 1px;
+    border-radius: 4px;
+    background-color: rgb(143, 18, 18);
+}
+#parrafo_formulario_pregunta{
+    text-align: center;
+}
+#parrafo_formulario{
+    margin-top: 15px;
+    margin-bottom: 1px;
+}
+input{
+    width:99%;
+    height: 20px;
+    border: 0px;
+    border-radius: 4px;
+}
+button{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    height: 25px;
+    border: 1px solid rgb(34, 34, 34);
+    border-radius: 4px;
+    background-color: rgb(34, 34, 34);
+    color: white;
+    width: 100%;
+}
+
+#inicio{
+    display: inline-block;
+}
+
+#Boton_Constraste{
+    width: 50px;
+    height: 50px;
+    float: right;
+}
